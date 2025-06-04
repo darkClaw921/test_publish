@@ -3,6 +3,7 @@ import datetime
 from fast_bitrix24 import Bitrix
 
 T = TypeVar('T', bound='BaseEntity')
+
 V = TypeVar('V')
 
 class Field(Generic[V]):
