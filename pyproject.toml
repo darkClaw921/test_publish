@@ -1,7 +1,7 @@
 [project]
-name = "test_publish"
+name = "test_publish2"
 version = "0.1.1"
-description = "Test publish"
+description = "Test publish2"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
